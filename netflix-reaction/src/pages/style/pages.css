@@ -1,0 +1,18 @@
+
+
+.about {
+    max-width: 650px; 
+    margin: 0 auto;
+    margin-top: auto;
+    margin-bottom: 30rem;
+    margin-top: 20rem;
+    padding: 20px;
+
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+
+  p {
+    width: 600px;
+    color: black;
+  }

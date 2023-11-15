@@ -1,18 +1,35 @@
-
-
 .about {
-    max-width: 650px; 
-    margin: 0 auto;
-    margin-top: auto;
-    margin-bottom: 30rem;
-    margin-top: 20rem;
-    padding: 20px;
+  max-width: 440px;
+}
 
-    border-radius: 8px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-  }
+.resume {
+  max-width: 550px;
+  text-align: left;
+  padding: 10px;
+}
 
-  p {
-    width: 600px;
-    color: black;
-  }
+.resume h3 {
+  margin: 0;
+}
+
+.resume h4 {
+  text-align: right;
+  margin: 0;
+}
+
+.resume h5 {
+  text-align: left;
+  margin: 0;
+  padding-left: 15px;
+}
+
+.resume li {
+  margin: 0;
+  padding-left: 15px;
+}
+
+.contact {
+  max-width: 550px;
+  text-align: left;
+  padding: 10px;
+}

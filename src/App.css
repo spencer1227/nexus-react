@@ -8,9 +8,18 @@
   text-align: center;
 }
 
+.section {
+  display: flex;
+  justify-content: center;
+  background-color: blueviolet;
+  padding-top: 10px;
+}
+
 #app {
   background-color: antiquewhite;
-
+  padding: 10px;
+  border-radius: 16px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
 #app p {

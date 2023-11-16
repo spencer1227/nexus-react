@@ -12,7 +12,7 @@ function tabs() {
           to="/"
           className={currentPage === '/' ? 'nav-link active' : 'nav-link'}
         >
-          Home
+          home
         </Link>
       </h2>
       <h2 className="nav-tab">
@@ -21,7 +21,7 @@ function tabs() {
          
           className={currentPage === '/about' ? 'nav-link active' : 'nav-link'}
         >
-          About
+          about
         </Link>
       </h2>
       <h2 className="nav-tab">
@@ -30,7 +30,7 @@ function tabs() {
           
           className={currentPage === '/blog' ? 'nav-link active' : 'nav-link'}
         >
-         Resume
+         resume
         </Link>
       </h2>
       <h2 className="nav-tab">
@@ -39,7 +39,7 @@ function tabs() {
           
           className={currentPage === '/contact' ? 'nav-link active' : 'nav-link'}
         >
-          Contact
+          contact
         </Link>
       </h2>
       <h2 className="nav-tab">
@@ -48,7 +48,7 @@ function tabs() {
           
           className={currentPage === '/portfolio' ? 'nav-link active' : 'nav-link'}
         >
-          Portfolio
+          portfolio
         </Link>
       </h2>
     </div>

@@ -10,34 +10,34 @@
 .section {
   display: flex;
   justify-content: center;
-  background-color: blueviolet;
+  background-image: url(data:image/png;base64,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);
+  color: aliceblue;
+  background-size: 50px;
+  background-repeat: round;
   padding-top: 10px;
   padding-bottom: 10px;
 }
 
-#app {
-  background-color: antiquewhite;
-  padding: 10px;
-  border-radius: 16px;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-}
-
 #app p {
-  color: black;
+ background-color: blanchedalmond;
+ color: black;
 }
 
 @media screen and (max-width: 600px) {
   #root {
+      display: block;
       font-size: 62%;
-      width: 400px;
   }
   #app {
-      width: 300px;
+    width: 60%;
+    margin: 5%;
   }
 }
 
 @media screen and (min-width: 600px) {
   #app {
-      width: 500px;
+      padding-left: 5%;
+      padding-right: 5%;
+      width: 520px;
   }
 }

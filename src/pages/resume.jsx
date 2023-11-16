@@ -7,10 +7,13 @@ export default function resume() {
       <h1>Resume</h1>
       <h2>Education:</h2>
       <div>
-        <h3>Bachelor's Degree in Occupational Safety</h3>
-        <h4>University of Wisconsin-Whitewater, 2013</h4>
-        <h3>Certificate in Full-Stack Web Developer</h3>
-        <h4>University of North Carolina-Charlotte, 2023</h4>
+        <h3>Bachelor's Degree</h3> 
+        <h4>Occupational Safety</h4>
+        <h4>University of Wisconsin-Whitewater</h4>
+        <h4>September 2013 - August 2018</h4>
+        <h3>Full-Stack Web Developer Certificate</h3>
+        <h4>University of North Carolina-Charlotte</h4>
+        <h4>August - November 2023</h4>
       </div>
 
           <div>

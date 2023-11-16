@@ -3,23 +3,20 @@ import "./style/pages.css"
 export function portfolio() {
   return (
     <div className="portfolio">
-      <h2>Portfolio</h2>
+      <h1>Portfolio</h1>
 
       <div className="project">
-        <h3>Project 1</h3>
-        <h6>Makeup App</h6>
-        <a href="#">View Project</a>
+        <h3>Makeup Catalogue</h3>
+        <a id="link" href="https://github.com/RhettRoseman/laughable-lamb.git"></a>
       </div>
 
       <div className="project">
-        <h3>Project 2</h3>
-        <h6>Bookshelf</h6>
-        <a href="#">View Project</a>
+        <h3>Bookshelf</h3>
+        <a id="link" href="https://github.com/Zlyda1993/effective-octo-robot.git"></a>
       </div>
       <div className="project">
-        <h3>Project 3</h3>
-       <h6>Full stack App</h6>
-        <a href="#">View Project</a>
+        <h3>Rental Car</h3>
+        <a id="link" href="https://github.com/sjohn294/thelastheist.git"></a>
       </div>
     </div>
   );

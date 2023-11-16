@@ -1,9 +1,36 @@
+* {
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
+.spencer {
+  display: inline-block;
+  align-items: center;
+  width: 410px;
+  height: auto;
+
+}
+
+h1 {
+  font-family: 'Courier New', Courier, monospace;
+  margin: 2px;
+  text-align: center;
+  font-size: 50px;
+  font-variant: small-caps;
+  background-color: white;
+  color: black;
+  opacity: 0.99;
+}
+
 .about {
+  display: contents;
+  justify-content: center;
   max-width: 440px;
 }
 
 .resume {
-  max-width: 550px;
+  display: contents;
+  justify-content: center;
+  max-width: 400px;
   text-align: left;
   padding: 10px;
 }
@@ -26,6 +53,44 @@
 
 .contact {
   max-width: 550px;
-  text-align: left;
+  text-align: center;
   padding: 10px;
+}
+
+#subtext {
+  background-color: rgb(20, 68, 20);
+  color: white;
+  opacity: 0.8;
+}
+
+.info {
+  display: flex;
+  justify-content: center;
+
+}
+
+.contact h4 {
+  margin: 15px;
+}
+
+#link {
+  display: inline-block;
+  background-image: url(https://965478665-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FBZv9toOYSFaCC7xYhcLM%2Fuploads%2F9lXTVSZmKXGeOjCTsVeK%2F1_SSRjtoQ0H2X3SBPOiJ5rZw.jpeg?alt=media&token=ec76c473-2889-409e-a742-fee3fcf54b88);
+  background-size: 80px 40px;
+  background-position-y: center;
+  width: 60px;
+  height: 20px;
+  padding: 10px;
+  margin: 5px;
+  border-radius: 16px;
+  box-shadow: 0 0 2px rgba(0, 0, 0);
+}
+
+img {
+  display: block;
+  width: 50px;
+  height: 50px;
+  margin: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0);
+  border-radius: 16px;
 }

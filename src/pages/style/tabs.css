@@ -6,11 +6,12 @@
 .tabs {
     display: flex;
     justify-content: center;
-    background-color: aqua;
+    background-color: rgb(15, 75, 47);
 }
 
 .nav-tab {
     border: 1px solid black;
+    color: white;
     background-color: white;
     padding: 10px;
     margin-left: 2%;
@@ -19,7 +20,7 @@
 }
 
 .nav-tab :hover {
-    background-color: red;
+    background-color: black;
     color: white;
 }
 

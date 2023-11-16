@@ -6,7 +6,7 @@ export default function resume() {
     <div className="resume">
       <h1>Resume</h1>
       <h2>Education:</h2>
-      <div>
+      <div id="subtext">
         <h3>Bachelor's Degree</h3> 
         <h4>Occupational Safety</h4>
         <h4>University of Wisconsin-Whitewater</h4>
@@ -16,7 +16,7 @@ export default function resume() {
         <h4>August - November 2023</h4>
       </div>
 
-          <div>
+          <div id="subtext">
         <h2>Skills:</h2>
         <h5>OSHA 10-hour</h5>
         <h5>CPR & First-Aid</h5>

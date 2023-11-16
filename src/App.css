@@ -18,9 +18,11 @@
   padding-bottom: 10px;
 }
 
-#app p {
- background-color: blanchedalmond;
- color: black;
+#app {
+ padding: 10px;
+ background-color: rgb(15, 75, 47);
+ color: white;
+ opacity: .95;
 }
 
 @media screen and (max-width: 600px) {

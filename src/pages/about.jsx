@@ -8,12 +8,10 @@ export default function about() {
       <h1>About Page</h1>
       </div>
       <div>
-     <p>    Nunc pharetra finibus est at efficitur. Praesent sed congue diam.
-        Integer gravida dui mauris, ut interdum nunc egestas sed. Aenean sed
-        mollis diam. Nunc aliquet risus ac finibus porta. Nam quis arcu non
-        lectus tincidunt fermentum. Suspendisse aliquet orci porta quam semper
-        imperdiet. Praesent euismod mi justo, faucibus scelerisque risus cursus
-        in. Sed rhoncus mollis diam, sit amet facilisis lectus blandit at.</p>
+        <p>Being a web developer means being part of a community. You’ll need a place not only to share your projects while you're applying for jobs or working as a freelancer but also to share your work with other developers and collaborate on projects.
+        Your task is to create a portfolio using your new React skills, which will help set you apart from other developers whose portfolios don’t use the latest technologies.
+        You’ll deploy this application to Netlify. Follow the instructions in the Git Guide or consult the Docs on Netlify to create a build that you can deploy.
+        </p>
       </div>
     </div>
   );

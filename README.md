@@ -45,8 +45,12 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 react
 route-react
 route-react-dom
-vite
+Vite
+Heroku
+Javascript, JSX
 
 ## Links 
+Heroku: [https://sheltered-taiga-54346-654b24eca97a.herokuapp.com/]
 
-## Video 
+Github Repo: [https://github.com/spencer1227/nexus-react.git]
+
